@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 O projeto é uma recriação do site do jogo Call of Duty: WWII, que visa demonstrar minhas habilidades em HTML e CSS. Foi desenvolvido como um exercício para praticar o layout e o design responsivo, seguindo o estilo e a estética do site original.
 
 
-![image](https://github.com/thmedu/Call-of-Duty/assets/141462806/1689db7a-1268-4261-a5d1-0de6fc2c899b)
+![image](https://github.com/thmedu/Projeto-Call-of-Duty-WWII/assets/141462806/d020d6bf-6f1c-4f7c-a1cf-e910860611ba)
 
 ### Melhorias Futuras
 
