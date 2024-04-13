@@ -18,4 +18,4 @@ O projeto é uma recriação do site do jogo Call of Duty: WWII, que visa demons
 
 ### Melhorias Futuras
 
-Embora seja uma recriação inspirada, estou sempre buscando maneiras de melhorar minhas habilidades e aprimorar meus projetos. Este projeto pode passar por atualizações e refinamentos à medida que continuo a aprender e crescer como desenvolvedor web.
+Embora seja uma recriação inspirada, estou sempre buscando maneiras de melhorar minhas habilidades e aprimorar meus projetos. Este projeto pode passar por atualizações e refinamentos à medida que continuo a aprender e crescer como desenvolvedor web..
