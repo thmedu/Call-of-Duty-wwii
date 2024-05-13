@@ -2,8 +2,6 @@
 
 o projeto é uma recriação inspirada no website do jogo Call of Duty: WWII, feita utilizando HTML e CSS. A intenção é capturar a essência visual e funcional do site original, oferecendo uma experiência similar aos fãs do jogo. Através da utilização de técnicas de design web, elementos visuais e interativos são desenvolvidos para refletir a atmosfera da Segunda Guerra Mundial presente no Call of Duty: WWII.
 
-![Untitled (1)](https://github.com/thmedu/Call-of-Duty-wwii/assets/141462806/e843e98e-27e7-41cc-9e6c-d979072dc188)
-
 
 ## 🚀 Tecnologias
 
