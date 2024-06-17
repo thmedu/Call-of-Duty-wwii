@@ -1,19 +1,19 @@
 
-# Projeto Inspirado no Site Call of Duty: WWII 🎮
+# Projeto Inspirado no Site Call of Duty: WWII  🎮
 
 Este projeto é uma recriação inspirada no website do jogo Call of Duty: WWII, feita utilizando HTML e CSS. A intenção é capturar a essência visual e funcional do site original, oferecendo uma experiência similar aos fãs do jogo. Através da utilização de técnicas de design web, elementos visuais e interativos são desenvolvidos para refletir a atmosfera da Segunda Guerra Mundial presente no Call of Duty: WWII.
 
 ![13](https://github.com/thmedu/Call-of-Duty-wwii/assets/141462806/b74a67ab-2a8e-4a4e-8ae9-e577e8698399)
 
 
-## 🚀 Tecnologias Utilizadas
+## 🚀  Tecnologias Utilizadas
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML5
 - CSS3
 
-## 💻 Projeto
+## 💻  Projeto
 
 O projeto é uma recriação do site do jogo Call of Duty: WWII, que visa demonstrar minhas habilidades em HTML e CSS. Foi desenvolvido como um exercício para praticar o layout e o design responsivo, seguindo o estilo e a estética do site original.
 
