@@ -27,13 +27,5 @@ O projeto é uma recriação do site do jogo Call of Duty: WWII, que visa demons
 
 Embora seja uma recriação inspirada, estou sempre buscando maneiras de melhorar minhas habilidades e aprimorar meus projetos. Este projeto pode passar por atualizações e refinamentos à medida que continuo a aprender e crescer como desenvolvedor web.
 
----
-
-[![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/projeto-call-of-duty-wwii)](https://github.com/seu-usuario/projeto-call-of-duty-wwii)
-[![GitHub license](https://img.shields.io/github/license/seu-usuario/projeto-call-of-duty-wwii)](https://github.com/seu-usuario/projeto-call-of-duty-wwii/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/projeto-call-of-duty-wwii?style=social)](https://github.com/seu-usuario/projeto-call-of-duty-wwii/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/projeto-call-of-duty-wwii?style=social)](https://github.com/seu-usuario/projeto-call-of-duty-wwii/network/members)
-
----
 
 Sinta-se à vontade para contribuir com melhorias, relatar problemas ou enviar sugestões. Se precisar de ajuda adicional, consulte o arquivo README.md do projeto ou entre em contato diretamente com o autor.
