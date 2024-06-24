@@ -1,9 +1,15 @@
 
 # Projeto Inspirado no Site Call of Duty: WWII  🎮
 
+![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/devclub-cafeteria)
+![GitHub license](https://img.shields.io/github/license/seu-usuario/devclub-cafeteria)
+![GitHub stars](https://img.shields.io/github/stars/seu-usuario/devclub-cafeteria?style=social)
+![GitHub forks](https://img.shields.io/github/forks/seu-usuario/devclub-cafeteria?style=social)
+
+
 Este projeto é uma recriação inspirada no website do jogo Call of Duty: WWII, feita utilizando HTML e CSS. A intenção é capturar a essência visual e funcional do site original, oferecendo uma experiência similar aos fãs do jogo. Através da utilização de técnicas de design web, elementos visuais e interativos são desenvolvidos para refletir a atmosfera da Segunda Guerra Mundial presente no Call of Duty: WWII.
 
-![Uploading 2.png…]()
+![2](https://github.com/thmedu/Call-of-Duty-wwii/assets/141462806/6984defd-637b-4a0b-a8cc-dac3b683a8cc)
 
 
 ## 🚀  Tecnologias Utilizadas
